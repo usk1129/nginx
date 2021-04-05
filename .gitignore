@@ -1,0 +1,7 @@
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+.history
+.terraform.lock.hcl
+.vscode
